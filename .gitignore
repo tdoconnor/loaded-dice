@@ -130,3 +130,12 @@ dmypy.json
 
 # ignore zip
 *.zip
+
+#genomics
+*.vcf
+*.vcf.gz
+*.bed 
+*.ped 
+*.bim
+*.fam
+*.map
